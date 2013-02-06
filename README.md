@@ -1,10 +1,11 @@
-# Vertx vagrant box
+# Vert.x vagrant box
 ## Getting started
 This box contains everything you need to get started with JRuby + vert.x.
 
 If you haven't cloned this repository with ```git clone --recursive``` you should now initialize the puppet-rvm submodule by running
 
     $ git submodule init
+    $ git submodule update
 
 You can start playing with it by running
 
